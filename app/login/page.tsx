@@ -39,7 +39,6 @@ export default function LoginPage(){
                     
                     <input type="password" value={password} onChange={ e => setPassword(e.target.value) }
 
-                     
                         className="p-2 mt-5 rounded-md text-slate-400 border border-green-300" />
                     <p className={`text-red-400 mb-3 ${passwordError}`}>Precisa colocar sua senha!</p>
                     
