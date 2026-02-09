@@ -1,6 +1,5 @@
 "use client"
 
-
 import { useState } from "react";
 import { Header } from "../componetes/Header";
 
