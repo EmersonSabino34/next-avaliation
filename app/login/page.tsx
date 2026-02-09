@@ -22,7 +22,6 @@ export default function LoginPage(){
         setEmailError('hidden');
         setPasswordError('hidden');
         alert('Login realizado com sucesso!');
-
         
     }
     return (
