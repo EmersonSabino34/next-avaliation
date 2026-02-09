@@ -6,7 +6,6 @@ import { Header } from "../componetes/Header";
 export default function LoginPage(){ 
     const [email, setEmail] = useState('');
     const [password, setPassword] = useState('');
-
     
     const[emailError, setEmailError] = useState('hidden');
     const [passwordError, setPasswordError] = useState('hidden');
