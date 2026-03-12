@@ -10,10 +10,10 @@
   <br/><br/>
   <strong>Uma aplicação moderna, performática e visualmente deslumbrante construída com a stack mais atual do ecossistema React em 2025.</strong>
 </div>
+
 <br/>
 
 ## ✨ Destaques
-
 
 - ⚡ **Next.js 16** com App Router e Server Components
 - ⚛️ **React 19** – aproveitando as últimas features e otimizações
