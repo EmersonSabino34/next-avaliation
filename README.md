@@ -14,6 +14,7 @@
 
 ## ✨ Destaques
 
+
 - ⚡ **Next.js 16** com App Router e Server Components
 - ⚛️ **React 19** – aproveitando as últimas features e otimizações
 - 🎨 **Tailwind CSS v4** – design system ultra rápido e totalmente customizável
