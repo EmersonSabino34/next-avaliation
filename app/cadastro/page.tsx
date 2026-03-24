@@ -3,8 +3,7 @@
 import { Header } from "../componetes/Header";
 
 export function Cadastro() {
-  return (
-    
+  return (   
    <div className="bg-zinc-50 h-screen ">
      
     <Header />
