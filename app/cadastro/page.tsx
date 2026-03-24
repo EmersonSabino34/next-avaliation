@@ -1,6 +1,5 @@
 "use client"
 
-
 import { Header } from "../componetes/Header";
 
 export function Cadastro() {
