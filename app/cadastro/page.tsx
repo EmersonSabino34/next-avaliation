@@ -14,7 +14,6 @@ export function Cadastro() {
               <input 
                className="p-2 rounded-md text-slate-400 border border-green-300" 
                placeholder="Nome Completo" />
-
               <input 
                className="p-2 rounded-md text-slate-400 border border-green-300" 
                placeholder="Email" />
