@@ -10,7 +10,6 @@ export function Cadastro() {
     <div className="h-96 w-96 mx-auto mt-10 rounded-xl 
           shadow-xl shadow-green-100 p-10 bg-green-100">
           <h1 className="text-3xl m-6 text-center text-slate-400 font-semibold">Cadastro</h1>
-
           <div className="flex flex-col gap-6 mt-16">
               <input 
                className="p-2 rounded-md text-slate-400 border border-green-300" 
