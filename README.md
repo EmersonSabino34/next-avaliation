@@ -50,7 +50,6 @@ LoginCadastroDashboardLoginCadastroDashboard
 
 TecnologiaVersãoPor quê?Next.js16App Router, Server Actions, Streaming SSRReact19Novas APIs, melhor performanceTailwind CSS4Engine de CSS mais rápida da históriaTypeScript5+Tipagem forte e developer experiencereact-iconslatestÍcones leves e consistentes
 
-
 📝 Licença
 Este projeto está licenciado sob a licença MIT – sinta-se à vontade para usar como template, estudar ou adaptar.
 
