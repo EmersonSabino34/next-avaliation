@@ -46,7 +46,6 @@ Acesse em http://localhost:3000
 
 LoginCadastroDashboardLoginCadastroDashboard
 
-
 🛠️ Stack completa
 
 TecnologiaVersãoPor quê?Next.js16App Router, Server Actions, Streaming SSRReact19Novas APIs, melhor performanceTailwind CSS4Engine de CSS mais rápida da históriaTypeScript5+Tipagem forte e developer experiencereact-iconslatestÍcones leves e consistentes
