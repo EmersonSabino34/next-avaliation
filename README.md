@@ -52,7 +52,6 @@ TecnologiaVersãoPor quê?Next.js16App Router, Server Actions, Streaming SSRReac
 📝 Licença
 Este projeto está licenciado sob a licença MIT – sinta-se à vontade para usar como template, estudar ou adaptar.
 
-
   Feito com 💜 por @seu-usuario
   
     ⬆ Voltar ao topo
