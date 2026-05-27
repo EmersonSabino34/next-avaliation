@@ -2,6 +2,7 @@
 
 
 
+
 <div aling="center">
   <img src="./preview/login.png" alt="Dashboard Preview" width="100%"/>
   <br/><br/>
